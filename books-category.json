@@ -15,12 +15,20 @@
     "name": "English Fundamentals",
     "icon": "https://example.com/english.png"
   },
+{
+    "name": "Introduction to Computing",
+    "icon": "https://example.com/intro.png"
+  },
+  {
+    "name": "English Fundamentals",
+    "icon": "https://example.com/english.png"
+  },
   {
     "name": "National Service Training Program",
     "icon": "https://example.com/nstp.png"
   },
   {
     "name": "Computer Programming",
-    "icon": "https://example.com/programming.png"
+    "icon": "https://drive.google.com/uc?export=download&id=1PT0A9CsvAy4vcDC4QH99wPVPXexWE6XP"
   }
 ]
