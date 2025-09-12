@@ -1,23 +1,23 @@
 [
   {
     "name": "Science Technology",
-    "icon": ""
+    "icon": "https://raw.githubusercontent.com/jmgc95/category/refs/heads/main/computer-science.png"
   },
   {
     "name": "Computer Operation",
-    "icon": "https://example.com/computer.png"
+    "icon": "https://raw.githubusercontent.com/jmgc95/category/refs/heads/main/computer.png"
   },
   {
     "name": "Introduction to Computing",
-    "icon": "https://example.com/intro.png"
+    "icon": "https://raw.githubusercontent.com/jmgc95/category/refs/heads/main/intcom.png"
   },
   {
     "name": "English Fundamentals",
-    "icon": "https://example.com/english.png"
+    "icon": "https://raw.githubusercontent.com/jmgc95/category/refs/heads/main/engfun.png"
   },
   {
     "name": "National Service Training Program",
-    "icon": "https://example.com/nstp.png"
+    "icon": "https://raw.githubusercontent.com/jmgc95/category/refs/heads/main/nstp.png"
   },
   {
     "name": "Computer Programming",
