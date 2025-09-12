@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Science Technology",
+    "icon": "https://example.com/science.png"
+  },
+  {
+    "name": "Computer Operation",
+    "icon": "https://example.com/computer.png"
+  },
+  {
+    "name": "Introduction to Computing",
+    "icon": "https://example.com/intro.png"
+  },
+  {
+    "name": "English Fundamentals",
+    "icon": "https://example.com/english.png"
+  },
+  {
+    "name": "National Service Training Program",
+    "icon": "https://example.com/nstp.png"
+  },
+  {
+    "name": "Computer Programming",
+    "icon": "https://example.com/programming.png"
+  }
+]
