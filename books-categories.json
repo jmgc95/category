@@ -1,30 +1,10 @@
 {
-  "version": "1.0.3",
+  "version": "1.0.1",
   "releaseNotes": "🚀 Initial release\n- Added categories\n- Improved UI with grid layout\n- Online JSON sync for categories",
   "categories": [
     {
-      "name": "Science Technology",
-      "icon": "https://raw.githubusercontent.com/jmgc95/category/main/computer-science.png"
-    },
-    {
-      "name": "Computer Operation",
-      "icon": "https://raw.githubusercontent.com/jmgc95/category/main/computer.png"
-    },
-    {
-      "name": "Introduction to Computing",
-      "icon": "https://raw.githubusercontent.com/jmgc95/category/main/intcom.png"
-    },
-    {
-      "name": "English Fundamentals",
-      "icon": "https://raw.githubusercontent.com/jmgc95/category/main/engfun.png"
-    },
-    {
-      "name": "National Service Training Program",
-      "icon": "https://raw.githubusercontent.com/jmgc95/category/main/nstp.png"
-    },
-    {
-      "name": "Computer Programming",
-      "icon": "https://raw.githubusercontent.com/jmgc95/category/main/metadata.png"
+      "name": "Hdjddyuffudud",
+      "icon": "Tdtzrxfxggx"
     }
   ]
 }
